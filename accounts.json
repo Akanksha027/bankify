@@ -1,0 +1,26 @@
+{
+    "123": {
+        "account_number": "123",
+        "name": "akanksha",
+        "password": "akanksha",
+        "balance": 500.0,
+        "transactions": [
+            "Withdrew $100.00",
+            "Withdrew $100.00",
+            "Withdrew $100.00",
+            "Deposited $100.00 (Account: 123)",
+            "Deposited $100.00 (Account: 123)"
+        ]
+    },
+    "456": {
+        "account_number": "456",
+        "name": "hello",
+        "password": "hello",
+        "balance": 100.0,
+        "transactions": [
+            "Deposited $100.00",
+            "Deposited $100.00",
+            "Withdrew $100.00 (Account: 456)"
+        ]
+    }
+}
